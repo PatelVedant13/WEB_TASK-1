@@ -11,7 +11,7 @@ ToDo List Using Ajax In PHPgit<br>
 1.Download And Install XAMPP COntrol Panel<br>
 2.Copy The Downloaded Folder In C:/xampp/htdocs<br>
 3.Start Apache Server And PHPMYAdmin using XAMPP ControlPanel<br>
-4.Create a Database named vgec_php_task_1 in PHPMyAdmin <br>
+4.Create a Database named userform in PHPMyAdmin <br>
 5.Import The Database file from database folder<br>
 6.Open browser and type localhost/Login and Signup Form with Email Verification - PHP/login-user.php(if ports are changed of localhost then work accordingly)<br>
 <hr>
